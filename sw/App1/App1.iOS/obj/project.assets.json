@@ -141,7 +141,7 @@
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
           "Xamarin.Essentials": "1.5.3.2",
-          "Xamarin.Forms": "4.6.0.847"
+          "Xamarin.Forms": "4.7.0.968"
         },
         "compile": {
           "bin/placeholder/App1.dll": {}
@@ -291,7 +291,7 @@
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
           "Xamarin.Essentials": "1.5.3.2",
-          "Xamarin.Forms": "4.6.0.847"
+          "Xamarin.Forms": "4.7.0.968"
         },
         "compile": {
           "bin/placeholder/App1.dll": {}
@@ -441,7 +441,7 @@
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
           "Xamarin.Essentials": "1.5.3.2",
-          "Xamarin.Forms": "4.6.0.847"
+          "Xamarin.Forms": "4.7.0.968"
         },
         "compile": {
           "bin/placeholder/App1.dll": {}
@@ -591,7 +591,7 @@
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
           "Xamarin.Essentials": "1.5.3.2",
-          "Xamarin.Forms": "4.6.0.847"
+          "Xamarin.Forms": "4.7.0.968"
         },
         "compile": {
           "bin/placeholder/App1.dll": {}
@@ -1041,5 +1041,20 @@
         "#import": []
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1605",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Detected package downgrade: Xamarin.Forms from 4.7.0.968 to 4.6.0.847. Reference the package directly from the project to select a different version. \r\n App1.iOS -> App1 -> Xamarin.Forms (>= 4.7.0.968) \r\n App1.iOS -> Xamarin.Forms (>= 4.6.0.847)",
+      "libraryId": "Xamarin.Forms",
+      "targetGraphs": [
+        "Xamarin.iOS,Version=v1.0",
+        "Xamarin.iOS,Version=v1.0/win",
+        "Xamarin.iOS,Version=v1.0/win-x64",
+        "Xamarin.iOS,Version=v1.0/win-x86"
+      ]
+    }
+  ]
 }

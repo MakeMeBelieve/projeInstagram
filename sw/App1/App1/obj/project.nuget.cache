@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "tmYWW9rHedBWlvPQ10sLiqgWYHvaOEpPqUypyaOwdSFdiHKxKSJ3Razun5ZiKXlQivMVrhx+sPxc2sHx7zwoWg==",
+  "dgSpecHash": "BDyJtH7XoN9fQZnZAuMgZ3hpz0dnz13d1DOhQiCCCIS819vUHEyHM9fYKXkxAmPEGBlB8682N1tJg57mVycFag==",
   "success": true,
   "projectFilePath": "D:\\projeInstagram\\sw\\App1\\App1\\App1.csproj",
   "expectedPackageFiles": [
@@ -8,7 +8,7 @@
     "C:\\Users\\Mumin\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
     "C:\\Users\\Mumin\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
     "C:\\Users\\Mumin\\.nuget\\packages\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
-    "C:\\Users\\Mumin\\.nuget\\packages\\xamarin.forms\\4.6.0.847\\xamarin.forms.4.6.0.847.nupkg.sha512"
+    "C:\\Users\\Mumin\\.nuget\\packages\\xamarin.forms\\4.7.0.968\\xamarin.forms.4.7.0.968.nupkg.sha512"
   ],
   "logs": []
 }
